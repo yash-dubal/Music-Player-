@@ -33,7 +33,7 @@
 		position: absolute;
 		width: 300px;
 		height: 68vh;
-		background-color: #050043;
+		background-color: #3027b5;
 		box-shadow: 0px 0px 2px 1px white;
 		right: 0px;
 		top: 23.5%;
@@ -54,7 +54,7 @@
 		height: auto;
 	}
 	.list-item {
-		background-color: #1a1e33;
+		background-color: #2b48db;
 	}
 	/* hide section 2 scrollbar */
 	.section-2::-webkit-scrollbar {
@@ -62,11 +62,11 @@
 	}
 	/* when the section 2 is hidden, section-1 width becomes 100% to cover the whole page */
 	.section-1 {
-		width: 100%;
+		width: 50%;
 	}
 	/* jumbotron */
 	.jumbotron {
-		height: 30vw;
+		height: 60vw;
 	}
 	/* image in the jumbotron */
 	.jumbotron-image {
@@ -93,7 +93,7 @@
 	}
 	/* jumbotron description */
 	.desc {
-		font-size: 1.8vw;
+		font-size: 1.5vw;
 	}
 	/* extra icons in the footer at the right hand side */
 	.extras > div:nth-child(3) {
